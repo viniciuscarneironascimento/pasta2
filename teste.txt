@@ -1,1 +1,2 @@
-Criar um repositório local a partir de uma pasta criada no windows e aberta pelo VS Code
+Criar um repositório local a partir de uma pasta criada no windows e aberta pelo VS Code.
+Ajuste em 23/07/2021 15:07.
