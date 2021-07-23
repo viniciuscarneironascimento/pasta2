@@ -1,0 +1,1 @@
+Criar um repositório local a partir de uma pasta criada no windows e aberta pelo VS Code
